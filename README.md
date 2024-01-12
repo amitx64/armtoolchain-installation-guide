@@ -13,7 +13,7 @@ sudo apt remove gcc-arm-none-eabi
 Download the latest version (Linux x86_64 Tarball) from the official website and check its MD5. Unpack it into a chosen directory (e.g., `/usr/share/`).
 
 ```bash
-sudo tar xjf gcc-arm-none-eabi-YOUR-VERSION.bz2 -C /usr/share/
+sudo tar xjf gcc-arm-none-eabi-YOUR-VERSION.tar.bz2 -C /usr/share/
 ```
 
 #### Step 3: Create System-wide Binaries Access
